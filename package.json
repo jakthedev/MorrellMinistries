@@ -2,7 +2,7 @@
   "name": "website-",
   "version": "1.0.0",
   "description": "Morrell Ministries",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "lite": "lite-server",
     "start": "npm run lite",
