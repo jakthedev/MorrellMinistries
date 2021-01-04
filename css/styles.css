@@ -80,9 +80,8 @@ header h2 {
 }  
 
 .wwubb {
-    background-color: #aa97ee;
-    font-weight: 1000;
-    border-style: initial;
+    background-color: #aa97ee; 
+    height: 155px;
 }
 
 .btn-ourEvents {
