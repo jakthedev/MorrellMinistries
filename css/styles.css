@@ -89,8 +89,8 @@ header h2 {
 }
 
 .img-thumbnail {
-    border: 23px solid #f8f8fa; 
-    border-style: double;
+    border: #f8f8fa; 
+    
 }
 
 .site-footer {
