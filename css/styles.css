@@ -4,8 +4,14 @@ body {
     font-size: large;
 }
 
-h1, h2, h3, h5 {
+h2, h3, h5 {
     font-family: fantasy, cursive;
+}
+
+h1 {
+    font-family: fantasy, cursive;
+    font-size: 40px;
+    
 }
 
 h2 {
@@ -15,6 +21,13 @@ h2 {
 header h2 {
     color: #CEC8FF;
      
+}
+
+
+.navbar {
+    font-family:Georgia, 'Times New Roman', Times, serif; 
+    font-weight: 1000;  
+    
 }
 
 .site-footer {
@@ -66,10 +79,21 @@ header h2 {
     
 }  
 
+.btn-ourEvents {
+    font-size: 80px;
+    border: black 5px solid;
+}
+
+.btn-getInvolved {
+    font-size: 80px;
+    border: black 5px solid;
+}
+
 .btn-primary {
     background-color: #aa97ee;
     border-style: initial;
-    border: 5px solid
+    border: 5px solid;
+    font-size: 25px;
 
 }
 
@@ -88,8 +112,10 @@ header h2 {
     border-style: ridge;  
 }
 
-.img-thumbnail {
-    border: #f8f8fa; 
+.img-thumbnail1 {
+    border: #f8f8fa;  
+    border-image-width: 200px; 
+
     
 }
 
