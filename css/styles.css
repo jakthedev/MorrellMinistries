@@ -103,6 +103,13 @@ header h2 {
 
 }
 
+.btn-secondary {
+    background-color: #e2b930;
+    border-style: initial;
+    border: 5px solid;
+    font-size: 25px;
+}
+
 .tab-content {
     border: 3px solid #3046C5; 
     border-top: none; 
@@ -127,4 +134,32 @@ header h2 {
 
 .site-footer {
     color: rgb(253, 253, 253);
+}
+
+.modal-header {
+    background-color: #aa97ee;
+}
+
+.reserveModal {
+    background-image: url("logo.png");
+}
+
+.modal-title {
+    color: #faf8f8;
+}
+
+.helpus {
+    font-family:'Times New Roman', Times, serif; 
+    font-size: 30px; 
+    font-weight: 1000;  
+    color: #e2b930;
+}
+
+.explainus {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    font-size: 25px; 
+    font-weight: 1000px; 
+    color:#080808;
+    background-color: #aa97ee;  
+    
 }
