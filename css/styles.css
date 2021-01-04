@@ -25,7 +25,7 @@ header h2 {
 
 
 .navbar {
-    font-family:Georgia, 'Times New Roman', Times, serif; 
+    font-family:cursive;
     font-weight: 1000;  
     
 }
@@ -91,7 +91,7 @@ header h2 {
 }
 
 .btn-getInvolved {
-    font-size: 70px;
+    font-size: 60px;
     border: black 5px solid; 
     color: #aa97ee;
 }
@@ -158,9 +158,24 @@ header h2 {
 
 .explainus {
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
-    font-size: 25px; 
+    font-size: 27px; 
     font-weight: 1000px; 
     color:#080808;
     background-color: #aa97ee;  
     
+} 
+
+.staffp {
+    border: 35px solid #5637dd;
+    border-style: ridge; 
+
+}  
+
+.wordsstaff {
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    font-weight: 1000px;
+}
+
+.footerlinks {
+    color: #aa97ee;
 }
