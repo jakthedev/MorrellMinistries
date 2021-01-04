@@ -85,13 +85,15 @@ header h2 {
 }
 
 .btn-ourEvents {
-    font-size: 10px;
+    font-size: 70px;
     border: black 5px solid;
+    color: #e2b930;
 }
 
 .btn-getInvolved {
-    font-size: 10px;
-    border: black 5px solid;
+    font-size: 70px;
+    border: black 5px solid; 
+    color: #aa97ee;
 }
 
 .btn-primary {
