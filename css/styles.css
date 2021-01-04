@@ -53,8 +53,10 @@ header h2 {
     padding: 0px 0px 100px;
 } 
 
-.navbar {
-    background-color: #ffffff;
+
+.navbar  {
+    background-color: #aa97ee;
+
 } 
 
 .card-header {
@@ -87,6 +89,10 @@ header h2 {
 }
 
 .img-thumbnail {
-    border: 23px solid #3046C5; 
+    border: 23px solid #f8f8fa; 
     border-style: double;
+}
+
+.site-footer {
+    color: rgb(253, 253, 253);
 }
